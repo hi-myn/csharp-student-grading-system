@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
-      "projectName": "Final",
-      "projectPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Starter\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\Yasmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yasmi\\AppData\\Roaming\\NuGet\\NuGet.Config"

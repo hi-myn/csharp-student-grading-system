@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
-        "projectName": "Starter",
-        "projectPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Final\\Final.csproj",
+        "projectName": "Final",
+        "projectPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\Yasmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\Yasmi\\csharp-student-grading-system\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yasmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
